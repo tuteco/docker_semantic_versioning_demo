@@ -9,4 +9,7 @@
  -- data & knowledge experts --                              
 ```
 
-demo project for sematic versioning with docker hub
+demo project for semantic versioning with docker hub
+
+## Changelog
+please see [changelog file](CHANGELOG.md)
