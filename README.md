@@ -10,3 +10,6 @@
 ```
 
 demo project for sematic versioning with docker hub
+
+## Changelog
+please see [changelog file](CHANGLOG.md)
