@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/tuteco/docker_semantic_versioning_demo/compare/v1.0.0...v1.1.0) (2021-09-11)
+
+
+### Features
+
+* hello world docker container added (fixes [#5](https://github.com/tuteco/docker_semantic_versioning_demo/issues/5)) ([b97b9a9](https://github.com/tuteco/docker_semantic_versioning_demo/commit/b97b9a9764df2421214642730865755508ecc78a))
+
 # 1.0.0 (2021-08-19)
 
 
